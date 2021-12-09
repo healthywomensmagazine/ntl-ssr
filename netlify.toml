@@ -1,0 +1,16 @@
+[build]
+  publish = "site"
+  functions = "functions"
+
+[[redirects]]
+  from = "/post/*"
+  to = "/.netlify/functions/post"
+  status = 200
+  force = false
+  querty = { lang = ":lang" }
+
+[functions]
+  node_bundler = "esbuild"
+
+[dev]
+  autoLaunch = false
