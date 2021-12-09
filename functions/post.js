@@ -1,11 +1,19 @@
-//
-exports.handler = async (event, context) => {
+const fs = require('fs')
+const MarkdownIt = require('markdown-it')
+   
+exports.handler = async (event) => {
 
-    const { lang } = event.queryStringParameters;
-    const { greeting } = require(`./languages/${lang}.json`);
+    const { postId } = event.queryStringParameters;
+    const fileContents = fs.readFileSync(`./posts/post-${postId}.md`, 'utf8')
+    const md = new MarkdownIt();
+    const result = md.render(fileContents);
+    
 
 	return {
         statusCode: 200,
-        body: greeting,
+        headers: {
+            "Content-Type": "text/html",
+        },
+        body: result,
     }
 }

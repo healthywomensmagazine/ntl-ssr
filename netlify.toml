@@ -10,7 +10,11 @@
   querty = { lang = ":lang" }
 
 [functions]
+  directory = "functions"
   node_bundler = "esbuild"
+
+  [functions.readdir]
+    included_files = ["posts/*.md"]
 
 [dev]
   autoLaunch = false

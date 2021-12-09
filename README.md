@@ -1,3 +1,5 @@
-# ntl-ssr
+# ntl-ssr/markdown
 
-Simple demo based on [https://www.netlify.com/blog/2021/08/12/how-to-include-files-in-netlify-serverless-functions/](https://www.netlify.com/blog/2021/08/12/how-to-include-files-in-netlify-serverless-functions/)
+Simple SSR demo of markdown files.
+
+Personally I would never do this as a production site.
