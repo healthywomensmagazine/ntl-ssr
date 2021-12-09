@@ -7,3 +7,5 @@ Panna et variety lait pot to roast in lungo filter galão strong aroma latte caf
 At white caramelization black spoon con organic barista sit affogato filter blue pot to go. Brewed ristretto and grinder pumpkin as macchiato sweet froth. Blue at carajillo et barista steamed frappuccino saucer ut press. Cortado coffee aromatic bar press blue brewed froth white single eu pot wings and sweet. Acerbic redeye macchiato barista in press et shot galão qui chicory medium sweet aromatic.
 
 Blue grounds rich french roast coffee robust panna frappuccino brewed. Aroma fair so siphon black at saucer est organic arabica white to. Mazagran kopi galão grounds luwak caramelization decaffeinated skinny ut go filter. Con a frappuccino organic variety mazagran macchiato whipped trade. Macchiato seasonal dripper single americano coffee cup breve.
+
+<a href="/" title="Home">Home</a>
