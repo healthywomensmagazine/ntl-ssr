@@ -13,7 +13,7 @@
   directory = "functions"
   node_bundler = "esbuild"
 
-  [functions.readdir]
+  [functions.posts]
     included_files = ["posts/*.md"]
 
 [dev]
